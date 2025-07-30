@@ -48,7 +48,7 @@ function App() {
                     size="large"
                     text="signin_with"
                     shape="rectangular"
-                    width="100%"
+                    width={20}
                     disabled={isLoading}
                   />
                   
